@@ -1,0 +1,8 @@
+.add-post .err{
+    padding: 1rem;
+    color: red;
+}
+
+.add-post .err ul{
+    list-style-type: none;
+}
